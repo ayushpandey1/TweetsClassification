@@ -1,2 +1,2 @@
-# Tweet_Classifcation
+# TweetClassifcation
 Sentiment analysis of user's tweet.
